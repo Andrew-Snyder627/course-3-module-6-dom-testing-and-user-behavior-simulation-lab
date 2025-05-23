@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   if (simulateButton) {
     simulateButton.addEventListener("click", () => {
-      simulateClick("dynamic-content", "Button Clicked!!");
+      simulateClick("dynamic-content", "Button Clicked!");
     });
   }
 
